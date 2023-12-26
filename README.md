@@ -3,7 +3,9 @@
 ![Project Cover](https://github.com/Raminasser123/ObjectDetector/blob/main/images/cover.png)
 
 ## Introduction
-This project utilizes a deep learning model to identify dangerous objects in security checks at airports. The script, developed in a Google Colab environment, accesses and processes data stored on Google Drive. It relies on the power of convolutional neural networks (CNNs), specifically a VGG16 model variant, to classify objects in X-ray images.
+In this repository, we present our work on refining the YOLOv3 model to identify threats in airport baggage X-rays more accurately. Our approach, tested on over 8,000 images, aims to enhance airport security through advanced AI technology.
+
+
 
 ## Setup and Installation
 ### Prerequisites
