@@ -1,4 +1,4 @@
-# AI-Based Security Check Object Detection
+# AI-Based X-ray Threat Detection using YOLOv3
 
 ![Project Cover](https://github.com/Raminasser123/ObjectDetector/blob/main/images/cover.png)
 
