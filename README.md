@@ -25,11 +25,11 @@ To run the script:
    - Import the following libraries:
      - `numpy` for complex mathematical operations on arrays/matrices
      - `matplotlib.pyplot` for graphs and plots
-     - `os` for operating system interactions
-     - `tensorflow.keras` and its submodules for neural network implementation
-     - `keras.layers` and `keras.models` for building the model architecture
-     - `keras.callbacks` for implementing custom callbacks
-     - `tensorflow.keras.preprocessing.image` for data augmentation and labeling
+     - torch: Used for tensor operations and deep learning functionalities in PyTorch.
+     - 'from ultralytics import YOLO': To access the YOLO object detection model from Ultralytics.
+     - 'cv2': For image processing tasks using OpenCV.
+     - !pip install ultralytics: Command to install the Ultralytics library for YOLO.
+     - !pip install roboflow: Command to install Roboflow for dataset handling and image preprocessing.
 3. Load and preprocess the dataset.
 4. Build and train the deep learning model.
 5. Observe the output for model performance and object detection results.
